@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0092-reverse-linked-list-ii](https://github.com/Joohhnnyyy/LeetCode-Solutions/tree/master/0092-reverse-linked-list-ii) |
+| [0206-reverse-linked-list](https://github.com/Joohhnnyyy/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 ## Hash Table
 |  |
 | ------- |
@@ -19,4 +20,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/Joohhnnyyy/LeetCode-Solutions/tree/master/0383-ransom-note) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Joohhnnyyy/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
