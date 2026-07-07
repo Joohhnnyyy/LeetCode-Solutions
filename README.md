@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Joohhnnyyy/LeetCode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0092-reverse-linked-list-ii](https://github.com/Joohhnnyyy/LeetCode-Solutions/tree/master/0092-reverse-linked-list-ii) |
 | [0206-reverse-linked-list](https://github.com/Joohhnnyyy/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 ## Hash Table
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Joohhnnyyy/LeetCode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/Joohhnnyyy/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 ## Array
 |  |
