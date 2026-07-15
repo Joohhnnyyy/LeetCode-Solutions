@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/Joohhnnyyy/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0633-sum-of-square-numbers](https://github.com/Joohhnnyyy/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Joohhnnyyy/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Joohhnnyyy/LeetCode-Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Two Pointers
 |  |
@@ -60,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/Joohhnnyyy/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Joohhnnyyy/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
