@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Joohhnnyyy/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0189-rotate-array](https://github.com/Joohhnnyyy/LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [0877-stone-game](https://github.com/Joohhnnyyy/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Joohhnnyyy/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Joohhnnyyy/LeetCode-Solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Joohhnnyyy/LeetCode-Solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Joohhnnyyy/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+| [0877-stone-game](https://github.com/Joohhnnyyy/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Joohhnnyyy/LeetCode-Solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Math
 |  |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Joohhnnyyy/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Joohhnnyyy/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0633-sum-of-square-numbers](https://github.com/Joohhnnyyy/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
+| [0877-stone-game](https://github.com/Joohhnnyyy/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/Joohhnnyyy/LeetCode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Joohhnnyyy/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Joohhnnyyy/LeetCode-Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -84,4 +87,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Joohhnnyyy/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Joohhnnyyy/LeetCode-Solutions/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Joohhnnyyy/LeetCode-Solutions/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Joohhnnyyy/LeetCode-Solutions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
