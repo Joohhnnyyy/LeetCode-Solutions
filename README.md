@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Joohhnnyyy/LeetCode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Joohhnnyyy/LeetCode-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
+| [0061-rotate-list](https://github.com/Joohhnnyyy/LeetCode-Solutions/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Joohhnnyyy/LeetCode-Solutions/tree/master/0092-reverse-linked-list-ii) |
 | [0206-reverse-linked-list](https://github.com/Joohhnnyyy/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 ## Hash Table
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Joohhnnyyy/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+| [0061-rotate-list](https://github.com/Joohhnnyyy/LeetCode-Solutions/tree/master/0061-rotate-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Joohhnnyyy/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Joohhnnyyy/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0633-sum-of-square-numbers](https://github.com/Joohhnnyyy/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
