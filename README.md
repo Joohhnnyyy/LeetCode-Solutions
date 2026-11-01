@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Joohhnnyyy/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/Joohhnnyyy/LeetCode-Solutions/tree/master/0383-ransom-note) |
 ## String
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Joohhnnyyy/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Joohhnnyyy/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Joohhnnyyy/LeetCode-Solutions/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Joohhnnyyy/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Joohhnnyyy/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/Joohhnnyyy/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Joohhnnyyy/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -75,11 +77,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Joohhnnyyy/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Joohhnnyyy/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Joohhnnyyy/LeetCode-Solutions/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Joohhnnyyy/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0633-sum-of-square-numbers](https://github.com/Joohhnnyyy/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
 ## Binary Search
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Joohhnnyyy/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0349-intersection-of-two-arrays](https://github.com/Joohhnnyyy/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0633-sum-of-square-numbers](https://github.com/Joohhnnyyy/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Joohhnnyyy/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Number Theory
@@ -95,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Joohhnnyyy/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0349-intersection-of-two-arrays](https://github.com/Joohhnnyyy/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Joohhnnyyy/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Joohhnnyyy/LeetCode-Solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [3536-maximum-product-of-two-digits](https://github.com/Joohhnnyyy/LeetCode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
